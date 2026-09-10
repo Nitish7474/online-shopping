@@ -1,0 +1,105 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.cart {
+  display: flex;
+  align - items: center;
+  justify - content: space - around;
+  background: orange;
+  height: 50px;
+  margin-left: 720px;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  & sup {
+    font - size: 20px;
+    margin - left: 10px;
+  }
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+}
+
+.mid_section {
+  display: flex;
+  margin-left: 0px;
+}
+
+
+.card {
+  margin: 80px;
+}
+
+.Items {
+  display: flex;
+  align - items: center;
+  margin: 50px;
+
+  & img {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#root {
+  display: grid;
+  grid-template-columns: 180px 180px 180px 180px;
+  grid-gap: 1px;
+  justify-content: space-around;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+
+.card img {
+  width: 92px;
+  height: 92px;
+}
+
+.icon h1 {
+  margin-left: 30px;
+}
+
+.icon i {
+  margin-left: 1600px;
+  margin-top: -18px;
+}
